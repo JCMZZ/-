@@ -1,0 +1,43 @@
+#panel{
+	width:100%;
+	min-height:100px;
+	background: #324bce;
+	padding:10px 80px 10px 80px;
+	box-sizing: border-box;
+}
+#panel button{
+	width:100px;
+	height:25px;
+	border:0;
+	color:#eee;
+}
+#open{
+	background:green;
+}
+#close{
+	background:red;
+}
+table{
+	width:700px;
+	margin:0 auto;
+	margin-top:20px;
+	background:#a9adc1;
+}
+table tr td{
+	border:1px solid #eee;
+}
+table tr td:last-child{
+	width:80px;
+	background:red;
+	color:#fff;
+	border-radius:8px;
+	text-align:center;
+}
+table tr td:first-child{
+	background:#5a4c17;
+	color:#fff;
+}
+.bg{
+	background:green !important;
+	color:blue !important;
+}
