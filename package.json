@@ -4,10 +4,6 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "_async-limiter@1.0.0@async-limiter": "^1.0.0",
-    "_safe-buffer@5.1.1@safe-buffer": "^5.1.1",
-    "_ultron@1.1.1@ultron": "^1.1.1",
-    "_ws@3.3.2@ws": "^3.3.2",
     "async-limiter": "^1.0.0",
     "body-parser": "^1.18.2",
     "cookie-parser": "^1.4.3",
